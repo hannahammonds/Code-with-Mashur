@@ -1,6 +1,7 @@
 #bcrypt-ruby gem www.rubydoc.info
 #use to implement hashing
 #also use SALTS - makes result slightly different each time
+
 require 'bundler/inline'
 
 gemfile true do
